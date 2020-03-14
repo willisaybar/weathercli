@@ -1,0 +1,21 @@
+welcome the user
+ask user to enter zip code
+
+user enters zip code
+display city name, temp, description, and humidity
+
+Juan:
+enter state
+shows all the cities in state
+enter city
+display city name, temp, description, and humidity
+
+
+Temp min- displays kelvin
+fakedata[:list][1][:temp][:min]
+Temp max- displays kelvin
+fakedata[:list][1][:temp][:max]
+Humidity- display percent
+fakedata[:list][1][:humidity]
+Description
+fakedata[:list][1][:weather][0][:description]
